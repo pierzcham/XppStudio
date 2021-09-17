@@ -1,0 +1,12 @@
+par mu=1.3
+par r=2
+
+x'=v
+v'=-mu*(x^2-1)*v - x
+ 
+
+@ total=20,xp=x,yp=v, xlo=-3
+@ ylo=-9, xhi=3 yhi=9
+@ maxstor=2000000, bounds=100000,  nmesh=800
+
+done
