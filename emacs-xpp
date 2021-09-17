@@ -11,6 +11,10 @@
 (menu-bar-mode -1)
 (scroll-bar-mode -1)
 
+(setq make-backup-files nil)
+;; w razie potrzeby tworzenia plików zapasowych to:
+;; (setq backup-directory-alist '(("" . "./backup"))) 
+
 (setq initial-buffer-choice "/home/michal/Dropbox/Research/xppstudio/xppcontrol.ode")
 
 ;;; --------XPP---------------------------------------------@
