@@ -47,6 +47,6 @@ emacs inotify-hookable rxvt-unicode`
    * Komunikacja pomiędzy Emacs a Xpp rozpoczyna się po zapisaniu zmian do pliku
      _xppcontrol.ode_. Gdy wprowadzimy pierwszą zmianę, to pojawi się
      Xpp. Uruchamianie Xpp po każdej zapisanej zmianie do pliku odbywa się po
-     naciśnięciu raz Ctrl-c w okonie . Gdy naciśniemy dwa razy, zakończymy działanie
-     Xpp.
+     naciśnięciu raz Ctrl-c w okonie _inotify-hookable_. Gdy naciśniemy dwa
+     razy, zakończymy działanie Xpp.
  
