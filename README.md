@@ -38,7 +38,7 @@ emacs inotify-hookable rxvt-unicode`
 	 pliku _config_ znajdującego się w folderze ~/.config/i3 linii `bindsym $mod+x exec
 	 $HOME/Dropbox/Research/xppstudio/xpp_workspace.sh`
 
-4. Uruchomienie XppStudio
+3. Uruchomienie XppStudio
    * Po naciśnięciu skrótu klawiszowego w przestrzeni roboczej 3, uruchomi się
      XppStudio (numer przestrzeni roboczej możemy zmienić w pliku
      _xpp\_workspace.sh_) ![xppstudioinit](./xppstudio_init.png)
