@@ -1,7 +1,7 @@
 # XppStudio
 ![xppstudio](./xppstudio.png)
 
-#### XppStudio na system Linux Debian
+#### XppStudio na system Debian Linux
 
 1. Instalacja programów składających się na XppStudio. Wszystkie pogramy można
 zainstalować z konsoli za pomocą komendy: `sudo apt get install i3-wm xppaut
